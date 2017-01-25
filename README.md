@@ -13,3 +13,5 @@ The code includes three part:
     SERVER developed using express js
   
 
+And the communication between 3 parts is roughly displayed as follow:
+![alt tag](https://cloud.githubusercontent.com/assets/8232009/22285565/22455d8e-e327-11e6-88fc-3eb368a0bb89.PNG)
