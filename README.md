@@ -15,3 +15,13 @@ The code includes three part:
 
 And the communication between 3 parts is roughly displayed as follow:
 ![alt tag](https://cloud.githubusercontent.com/assets/8232009/22285565/22455d8e-e327-11e6-88fc-3eb368a0bb89.PNG)
+
+
+[NOTE]
+
+The code here is just part of the whole project, so you might not able to run successfully.
+Many other parts are needed including ExpressJS environment and React Native environment.
+However, the code in this repository is all I've modified. Therefore, if you set up Reactive Native, Express JS, and LinkIt Smart 7688 Duo properly, you might get the expected result.
+
+
+[DEMO]
