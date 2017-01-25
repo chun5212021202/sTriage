@@ -26,4 +26,4 @@ However, the code in this repository is all I've modified. Therefore, if you set
 
 [DEMO]
 
-![alt tag](https://cloud.githubusercontent.com/assets/8232009/22289698/fa48258a-e337-11e6-9cd7-1a6f702f66e0.jpg)
+![alt tag](https://cloud.githubusercontent.com/assets/8232009/22289698/fa48258a-e337-11e6-9cd7-1a6f702f66e0.jpg)!![alt tag](https://cloud.githubusercontent.com/assets/8232009/22289744/28661db4-e338-11e6-9076-26fe5591c796.jpg)
