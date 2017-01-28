@@ -26,4 +26,6 @@ However, the code in this repository is all I've modified. Therefore, if you set
 
 [APP DEMO]
 
+In the "APP" folder, there is an APK file "app-release.apk". This should be able to install and test on your android device.
+
 ![alt tag](https://cloud.githubusercontent.com/assets/8232009/22289879/cc52a0d2-e338-11e6-8c40-f66087f0ca32.jpg)    ![alt tag](https://cloud.githubusercontent.com/assets/8232009/22289889/dd56b350-e338-11e6-8a0a-c071bc43f368.jpg)
